@@ -1,0 +1,18 @@
+﻿  Water_(JKH_version)Dlg.cpp
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(201): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(258): warning C4244: =: преобразование "UINT" в "float", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(264): warning C4244: =: преобразование "UINT" в "float", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(270): warning C4244: =: преобразование "UINT" в "float", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(281): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(282): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(294): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(295): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(307): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(308): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(323): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(324): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(336): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(337): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(349): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\programming\hw\water_(jkh_version)\water_(jkh_version)\water_(jkh_version)dlg.cpp(350): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Water_(JKH_version).vcxproj -> C:\programming\HW\Water_(JKH_version)\Debug\Water_(JKH_version).exe
